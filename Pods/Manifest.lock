@@ -1,0 +1,16 @@
+PODS:
+  - BlinkingRandomLabel (0.1.3)
+
+DEPENDENCIES:
+  - BlinkingRandomLabel
+
+SPEC REPOS:
+  trunk:
+    - BlinkingRandomLabel
+
+SPEC CHECKSUMS:
+  BlinkingRandomLabel: f6054c798d4b59152ba8d2dddcd2c999e36165b0
+
+PODFILE CHECKSUM: 18fc87e14e13c1e0500e44b5b7588e7e438e068a
+
+COCOAPODS: 1.11.3
